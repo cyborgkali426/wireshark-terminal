@@ -1,4 +1,4 @@
-# wireshark-terminal
+# Wireshark Terminal
 
 `wireshark-terminal` is similar to the Wireshark we know and use, the difference is that `wireshark-terminal` runs in the terminal in a simple and compact way.
 Remember that the wireshark-terminal program can only be run as sudo. If it's used on mobile, the phone needs to be root as well.
