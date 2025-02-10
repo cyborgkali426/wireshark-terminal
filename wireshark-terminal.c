@@ -1,3 +1,13 @@
+###################################################################################################################################################################
+#
+# Author: Kali Goddess (Cyborg)
+# Data: 10/02/2025
+# Title: Wireshark Terminal
+# Detail: wireshark-terminal is similar to Wireshark, but is only displayed in the terminal.
+# Objective: The aim of wireshark-terminal is to be as portable as possible, as long as you run it with the root user.
+#
+###################################################################################################################################################################
+
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
